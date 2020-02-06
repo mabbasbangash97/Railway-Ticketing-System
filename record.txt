@@ -1,0 +1,21 @@
+Ticket No.   Train Name  Destination       Time      Seat Type           Price
+      1168    Greenline     PESHAWAR      22:15   Business Class        Rs.4400 
+      1187        AKBAR     Peshawar      23:00    Economy Class         Rs.2200
+      1206    Greenline     PESHAWAR      22:15   Business Class        Rs.4400
+      1225        AKBAR       Lahore      19:00   Business Class        Rs.1900
+      1263       Jaffar   Rawalpindi      24:00    Economy Class         Rs.1700
+      1282    Greenline     PESHAWAR      22:15   Business Class        Rs.4400
+      1301    Greenline    HYDERABAD      12:00   Lower AC Class        Rs.1100
+      1320     Shalimar     Peshawar      24:00   Business Class        Rs.2700
+      1339    Greenline       LAHORE      19:30   Lower AC Class        Rs.2900     
+      1396       Jaffar     Peshawar      02:00   Lower AC Class        Rs.2300
+      1415        AKBAR    Hyderabad       7:00   Economy Class          Rs.600
+      1434     Shalimar    Hyderabad       9:00   Economy Class          Rs.500
+      1529     Shalimar    Nawabshah      11:00   Economy Class        Rs.700
+      1548     Shalimar        Rohri      13:00   Economy Class        Rs.900
+      1567    Greenline   RAWALPINDI      21:00   Lower AC Class        Rs.3400
+      1586    Greenline     PESHAWAR      22:15   Business Class        Rs.4400
+      1605     Shalimar   Rawalpindi      22:00   Economy Class        Rs.1800
+      1624    Greenline       LAHORE      19:30   Business Class        Rs.3200
+      1643        AKBAR     Peshawar      23:00   Economy Class        Rs.2200
+      1662       Jaffar     Peshawar      02:00   Economy Class        Rs.2100
